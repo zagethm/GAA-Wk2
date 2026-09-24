@@ -1,0 +1,5 @@
+streamlit>=1.40,<1.51
+openai>=1.104.2,<3
+pinecone>=6,<8
+python-dotenv>=1,<2
+pydantic>=2.11,<3
